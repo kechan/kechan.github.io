@@ -10,9 +10,11 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Math: $$y^3$$
 
+{% raw %}
 $$x^2$$
 
 $$\sum_i x_i$$
+{% endraw %}
 
 Jekyll also offers powerful support for code snippets:
 
